@@ -1,0 +1,46 @@
+body{
+    background-color: black;
+}
+.keyboard{
+    margin-left: 60px;
+    margin-top: 30px;
+    size-adjust: 2px 0 5px;
+
+}
+.pa{
+    margin-top: 20px;
+    margin-left: 13pc;
+    margin-bottom: 20px;
+    color: aqua;
+    height: 20px;
+    width: 100px;
+    text-size-adjust: 50px 50px 59px;
+}
+button{
+    background-color: rgb(131, 248, 84);
+    border-radius: 5px;
+    box-shadow: 2px 2px 10px wheat;
+    size-adjust: 10px 0 0;
+}
+button:active{
+    background-color: aquamarine;
+}
+.tab{
+    width: 50px;
+}
+.shift1,.shift2{
+    width: 75px;
+}
+.Enter{
+    width: 50px;
+}
+.Capslock{
+    width: 70px;
+}
+.slac{
+    width: 40px;
+}
+.space{
+    width: 100px;
+}
+
